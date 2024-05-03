@@ -9,7 +9,7 @@ This is a simple calculator web application created using HTML, CSS, and JavaScr
 # Features
 * Addition, subtraction, multiplication, and division operations.
 * Clear button to reset the calculator.
-* Keyboard support for basic operations (+, -, *, /, Enter, Escape).
+* Keyboard support for basic operations (+, -, *, /, AC, DEL, =).
 
 # Usage
 * Click on the buttons to input numbers and perform operations.
